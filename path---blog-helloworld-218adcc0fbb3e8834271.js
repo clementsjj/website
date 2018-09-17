@@ -1,0 +1,2 @@
+webpackJsonp([0xbb8cd30672a8],{259:function(t,o){t.exports={data:{markdownRemark:{html:'<p>Obligatory first "hello world" post.\nGotta pay respects.</p>',frontmatter:{title:"Hello World"}}},pathContext:{slug:"/blog/helloworld/"}}}});
+//# sourceMappingURL=path---blog-helloworld-218adcc0fbb3e8834271.js.map

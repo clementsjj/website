@@ -1,0 +1,2 @@
+webpackJsonp([0x9427c64ab85d],{130:function(e,t,n){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=n(1),a=u(l),d=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"This page doesn't seem to exist"),a.default.createElement("h2",null,"Congrats, you found a hidden 404 page!"))};t.default=d,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-404-js-8abd248cbdb2b4acfa9d.js.map

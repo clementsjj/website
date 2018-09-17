@@ -1,0 +1,2 @@
+webpackJsonp([0xa8ad71f1036d],{260:function(e,a){e.exports={data:{markdownRemark:{html:'<p>Here\'s a video from YouTube.\nYou can embed the same as you would in html.</p>\n<iframe width="560" height="315" src="https://www.youtube.com/embed/EnHkibxvdfU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>',frontmatter:{title:"A Video"}}},pathContext:{slug:"/blog/video/"}}}});
+//# sourceMappingURL=path---blog-video-21fbc82a2618c8d65caa.js.map
