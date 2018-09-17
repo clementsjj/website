@@ -1,0 +1,39 @@
+{
+  "name": "jj-homepage",
+  "description": "Gatsby.js with reactstrap / Bootstrap 4",
+  "version": "1.0.0",
+  "author": "JJ Clemnets",
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "compression": "^1.7.2",
+    "express": "^4.16.3",
+    "gatsby": "^1.9.255",
+    "gatsby-link": "^1.6.41",
+    "gatsby-plugin-react-helmet": "^2.0.11",
+    "gatsby-plugin-react-next": "^1.0.11",
+    "gatsby-source-filesystem": "^1.5.39",
+    "gatsby-transformer-remark": "^1.7.44",
+    "hoek": "^5.0.3",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-helmet": "^5.2.0",
+    "reactstrap": "^5.0.0"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "start": "node ./index.js",
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.0",
+    "prettier": "^1.12.1"
+  }
+}
